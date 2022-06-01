@@ -1,0 +1,29 @@
+2022-05-31 17:05:11,496 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-06-01 10:08:35,549 [Worker-20: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-06-01 10:08:38,984 [Worker-20: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.thomasmoore.otter:Otter:0.0.1-SNAPSHOT @ /Users/thomasmoore/Documents/Personal Projects/otter-backend/pom.xml.
+2022-06-01 10:08:41,680 [Worker-20: Update Maven projects configuration] INFO  c.g.e.m.p.f.lib.NodeInstaller - Installing node version v16.15.0
+2022-06-01 10:08:41,694 [Worker-20: Update Maven projects configuration] INFO  c.g.e.m.p.f.lib.NodeInstaller - Downloading https://nodejs.org/dist/v16.15.0/node-v16.15.0-darwin-x64.tar.gz to /Users/thomasmoore/.m2/repository/com/github/eirslett/node/16.15.0/node-16.15.0-darwin-x64.tar.gz
+2022-06-01 10:08:41,697 [Worker-20: Update Maven projects configuration] INFO  c.g.e.m.p.frontend.lib.ProxyConfig - No proxies configured
+2022-06-01 10:08:41,697 [Worker-20: Update Maven projects configuration] INFO  c.g.e.m.p.f.lib.FileDownloader - No proxy was configured, downloading directly
+2022-06-01 10:08:49,635 [Worker-20: Update Maven projects configuration] INFO  c.g.e.m.p.f.lib.NodeInstaller - Unpacking /Users/thomasmoore/.m2/repository/com/github/eirslett/node/16.15.0/node-16.15.0-darwin-x64.tar.gz into /Users/thomasmoore/Documents/Personal Projects/otter-backend/target/node/tmp
+2022-06-01 10:08:50,511 [Worker-20: Update Maven projects configuration] INFO  c.g.e.m.p.f.lib.NodeInstaller - Copying node binary from /Users/thomasmoore/Documents/Personal Projects/otter-backend/target/node/tmp/node-v16.15.0-darwin-x64/bin/node to /Users/thomasmoore/Documents/Personal Projects/otter-backend/target/node/node
+2022-06-01 10:08:50,717 [Worker-20: Update Maven projects configuration] INFO  c.g.e.m.p.f.lib.NodeInstaller - Installed node locally.
+2022-06-01 10:08:50,721 [Worker-6: Building] INFO  c.g.e.m.p.f.lib.NodeInstaller - Installing node version v16.15.0
+2022-06-01 10:08:50,727 [Worker-6: Building] INFO  c.g.e.m.p.f.lib.NodeInstaller - Unpacking /Users/thomasmoore/.m2/repository/com/github/eirslett/node/16.15.0/node-16.15.0-darwin-x64.tar.gz into /Users/thomasmoore/Documents/Personal Projects/otter-backend/target/node/tmp
+2022-06-01 10:08:50,889 [Worker-20: Update Maven projects configuration] INFO  c.g.e.m.p.frontend.lib.NPMInstaller - NPM 8.11.0 is already installed.
+2022-06-01 10:08:51,585 [Worker-6: Building] INFO  c.g.e.m.p.f.lib.NodeInstaller - Copying node binary from /Users/thomasmoore/Documents/Personal Projects/otter-backend/target/node/tmp/node-v16.15.0-darwin-x64/bin/node to /Users/thomasmoore/Documents/Personal Projects/otter-backend/target/node/node
+2022-06-01 10:08:51,812 [Worker-6: Building] INFO  c.g.e.m.p.f.lib.NodeInstaller - Installed node locally.
+2022-06-01 10:08:51,828 [Worker-6: Building] INFO  c.g.e.m.p.frontend.lib.NPMInstaller - NPM 8.11.0 is already installed.
+2022-06-01 10:08:51,877 [Worker-6: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm install' in /Users/thomasmoore/Documents/Personal Projects/otter-backend/src/main/myapp
+2022-06-01 10:08:51,881 [Worker-6: Building] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm run build' in /Users/thomasmoore/Documents/Personal Projects/otter-backend/src/main/myapp
+2022-06-01 10:08:52,216 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-01 10:08:52,217 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-01 10:08:52,227 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-01 10:08:52,257 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-01 10:08:52,271 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-01 10:08:52,271 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-01 10:08:52,271 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/thomasmoore/Documents/Personal Projects/otter-backend/src/test/resources
+2022-06-01 10:08:52,646 [Worker-20: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /otter-backend/src/main/java
+2022-06-01 10:08:52,650 [Worker-20: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /otter-backend/src/main/resources
+2022-06-01 10:08:52,692 [Worker-20: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /otter-backend/src/main/resources
+2022-06-01 10:08:52,701 [Worker-20: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /otter-backend/src/test/java
